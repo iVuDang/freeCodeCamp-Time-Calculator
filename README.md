@@ -26,7 +26,7 @@ add_time("6:30 PM", "205:12")
   ```
 
 ## Preview:
-<img src="https://github.com/iVuDang/freeCodeCamp-Arithmetic-Formatter/blob/main/Arithmetic%20preview.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/freeCodeCamp-Time-Calculator/blob/main/time%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * Python
