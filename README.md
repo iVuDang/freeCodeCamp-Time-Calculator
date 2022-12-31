@@ -45,11 +45,11 @@ add_time("6:30 PM", "205:12")
     "{:02d}".format(3)
     # 03
 
-02d formats an integer (d) to a field of minimum width 2 (2), with zero-padding on the left (leading 0).
+        02d formats an integer (d) to a field of minimum width 2 (2), with zero-padding on the left (leading 0).
 
 2. When encountering Index Error when using lists, this can commonly be resolved using modulus operator %. 
 
-If there's 7 items in the list, apply % 7 to the indexing variable, the remainder from our modulus calc used as the index reference will appropriately fit between positions 0 to 6. 
+        If there's 7 items in the list, apply % 7 to the indexing variable, the remainder from our modulus calc used as the index reference will appropriately fit between positions 0 to 6. 
 
 
 ## Citations:
