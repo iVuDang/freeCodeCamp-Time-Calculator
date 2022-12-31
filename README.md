@@ -43,6 +43,7 @@ add_time("6:30 PM", "205:12")
 1. "formattingtype".format(value)
 
     "{:02d}".format(3)
+    <br>
     03
 
     02d formats an integer (d) to a field of minimum width 2 (2), with zero-padding on the left (leading 0).
