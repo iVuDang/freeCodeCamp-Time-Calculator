@@ -33,7 +33,7 @@ add_time("6:30 PM", "205:12")
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
-| Replit demo | https://replit.com/@iVuDang/freeCodeCamp-Time-Calculator-v1#main.py | 
+| Replit demo | https://replit.com/@iVuDang/boilerplate-time-calculator#time_calculator.py | 
 
 <br/>
 
