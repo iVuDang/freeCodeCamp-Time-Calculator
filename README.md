@@ -3,6 +3,8 @@
 ## Instructions:
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
 
+<br>
+
 ## Purpose
 ```python
 add_time("3:00 PM", "3:10")
@@ -24,18 +26,24 @@ add_time("6:30 PM", "205:12")
 # Returns: 7:42 AM (9 days later)
   ```
 
+<br>
+
 ## Preview:
 <img src="https://github.com/iVuDang/freeCodeCamp-Time-Calculator/blob/main/time%20preview.png" width=100% height=100%>
 
+<br>
+
 ## Technologies: 
 * Python
+
+<br>
 
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
 | Replit demo | https://replit.com/@iVuDang/boilerplate-time-calculator#time_calculator.py | 
 
-<br/>
+<br>
 
 - - - -
 
@@ -52,6 +60,7 @@ add_time("6:30 PM", "205:12")
 
     If there's 7 items in the list, apply % 7 to the indexing variable, the remainder from our modulus calc used as the index reference will appropriately fit between positions 0 to 6. 
 
+<br>
 
 ## Citations:
 * https://stackoverflow.com/questions/36543804/what-does-02d-mean-in-python 
